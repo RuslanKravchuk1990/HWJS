@@ -33,4 +33,6 @@ if(age_1 > age_2){
     console.log("Welcom !")
 } else if(age_1 > age_3){
     console.log("Keep calm and look Culture channel")
-}
+} else {
+    consol.log("Technical work")
+}    
